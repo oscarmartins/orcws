@@ -1,0 +1,20 @@
+{
+  "name": "websock",
+  "version": "1.0.0",
+  "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "socketio": "node socketio.js"
+  },
+  "author": "oscar rafael",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "socket.io": "^2.3.0",
+    "uuid": "^3.3.2",
+    "ws": "^7.2.0"
+  }
+}

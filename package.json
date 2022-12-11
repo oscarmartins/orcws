@@ -11,7 +11,7 @@
   "author": "oscar rafael",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "socket.io": "^2.3.0",
     "uuid": "^3.3.2",
